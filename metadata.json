@@ -1,0 +1,7 @@
+{
+  "name": "QUR’ON AI",
+  "description": "An Islamic AI guide providing insights from the Holy Qur'an, Sahih Hadiths, and Fiqh with a focus on education and spiritual growth.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
